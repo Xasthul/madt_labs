@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button_text">Count</string>
+    <string name="textview1_text">"Result: "</string>
+    <string name="toast_text">The field is empty!</string>
+    <string name="result">"Result: "</string>
+    <string name="words">" words"</string>
+    <string name="characters">" characters"</string>
+</resources>
